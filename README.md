@@ -1,2 +1,1 @@
-# AutomationTasks
-Tasks that i finished during Stepik course
+Tasks that i finished during Stepik course. I hope they helps me a lot!
